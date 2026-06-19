@@ -204,10 +204,9 @@ e-commerce-profitability-analysis/
 ```
 
 ---
-
 ## 👩‍💻 Author
 
 **Shruti Patidar**
 
-Aspiring Data Analyst | Python | SQL | Power BI | Data Visualization | Business Analytics
+Turning raw data into meaningful business insights through analytics, visualization, and storytelling.
 
